@@ -1,0 +1,28 @@
+{
+  "name": "Reverse Panels Beta",
+  "identifier": "io.github.josheg112.reversepanels.beta",
+  "subtitle": "Beta builds of Reverse Panels",
+  "description": "Add this source in SideStore or AltStore to install and update the Reverse Panels beta.",
+  "iconURL": "https://raw.githubusercontent.com/josh-eg112/reverse-panels-beta/main/icon.png",
+  "website": "https://github.com/josh-eg112/reverse-panels-beta",
+  "apps": [
+    {
+      "name": "Reverse Panels",
+      "bundleIdentifier": "com.comicreader.app",
+      "developerName": "Josh Skrenkowich",
+      "subtitle": "Comic reader for Kavita and OPDS",
+      "localizedDescription": "Reverse Panels is a native comic reader for Kavita, OPDS catalogs, Nextcloud, iCloud Drive and files on your device. Read page by page or let Panel Flow guide you through each panel, download issues for offline reading, and pick up where you left off.\n\nThis is a beta build for testers.",
+      "iconURL": "https://raw.githubusercontent.com/josh-eg112/reverse-panels-beta/main/icon.png",
+      "category": "entertainment",
+      "screenshots": [],
+      "versions": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSLocalNetworkUsageDescription": "Reverse Panels connects to comic servers on your local network, such as Kavita or Nextcloud."
+        }
+      }
+    }
+  ],
+  "news": []
+}
