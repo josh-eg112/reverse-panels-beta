@@ -9,7 +9,7 @@
     {
       "name": "Reverse Panels",
       "bundleIdentifier": "com.comicreader.app",
-      "developerName": "Josh Skrenkowich",
+      "developerName": "Reverse Panels",
       "subtitle": "Comic reader for Kavita and OPDS",
       "localizedDescription": "Reverse Panels is a native comic reader for Kavita, OPDS catalogs, Nextcloud, iCloud Drive and files on your device. Read page by page or let Panel Flow guide you through each panel, download issues for offline reading, and pick up where you left off.\n\nThis is a beta build for testers.",
       "iconURL": "https://raw.githubusercontent.com/josh-eg112/reverse-panels-beta/main/icon.png",
