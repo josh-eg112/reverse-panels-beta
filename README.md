@@ -15,6 +15,18 @@ and local files. This repository only hosts the app builds; it contains no sourc
 
 Requires iOS 17 or later. On first launch a short intro explains how to add your comics.
 
+## Support Reverse Panels
+
+Reverse Panels is free and built in spare time. Right now betas go out through SideStore, which means
+re-signing every 7 days. An Apple Developer licence ($99 USD/year) would move it to TestFlight and,
+eventually, the App Store.
+
+If you enjoy the app and want to help get it there:
+
+[![Support Reverse Panels on Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/reversepanels)
+
+Every coffee goes toward the developer licence. Thank you!
+
 ## Feedback
 
 Please report bugs and ideas in this repository's **Issues**: what you did, what you expected,
